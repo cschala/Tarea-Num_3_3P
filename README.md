@@ -114,5 +114,86 @@ de banda? ¿Cuál es la frecuencia resonante?
 
 ![image](https://user-images.githubusercontent.com/117959424/221439292-eb194398-b5c0-4e73-8180-a3b1f663735c.png)
 
+2. Un filtro pasabajas tiene frecuencia crítica de 3 kHz. Determine a cuáles de las siguientes frecuencias
+se les permite pasar y cuáles son rechazadas:
+
+(a) 100 Hz (b) 1 kHz (c) 2 kHz (d) 3 kHz (e) 5 kHz
+
+![image](https://user-images.githubusercontent.com/117959424/221439575-f171e414-e5d1-4574-a529-a5350758569e.png)
+
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent  5 V.
+
+![image](https://user-images.githubusercontent.com/117959424/221439701-2767866f-2f80-4620-89dd-c73cbaa22e3f.png)
+
+6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
+
+![image](https://user-images.githubusercontent.com/117959424/221439718-05bce9d3-da00-4210-add6-20a20fb1b717.png)
+
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB:
+
+(a) Vent  1 V, Vsal  1 V (b) Vent  5 V, Vsal  3 V
+(c) Vent  10 V, Vsal  7.07 V (d) Vent  25 V, Vsal  5 V
+
+![image](https://user-images.githubusercontent.com/117959424/221439752-c137bc52-025c-4f15-9f1d-38d947d58fd9.png)
+
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB
+en las siguientes frecuencias (fc  1 kHz):
+
+(a) 10 kHz (b) 100 kHz (c) 1 MHz
+
+![image](https://user-images.githubusercontent.com/117959424/221439768-c6cefd04-e18a-4af0-b9cd-fba4994ebf85.png)
+
+12. La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
+
+(a) 1 Hz (b) 20 Hz (c) 50 Hz (d) 60 Hz (e) 30 kHz
+
+![image](https://user-images.githubusercontent.com/117959424/221439839-ede1604e-4ee9-430b-8e5e-ade0d80cfde8.png)
+
+14. ¿Cuál es fc para cada filtro de la figura 18-41? Determine el voltaje de salida a fc en cada caso (Vent
+10 V).
+
+![image](https://user-images.githubusercontent.com/117959424/221439860-99f9e247-3ae9-4a7b-a497-8e49de493f03.png)
+
+18. Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10 Æ, determine el ancho de banda para cada filtro.
+
+![image](https://user-images.githubusercontent.com/117959424/221439913-64063a43-3653-4880-b6e3-7ebb49620179.png)
+
+20. Para cada filtro mostrado en la figura 18-44, determine la frecuencia central de la pasabanda. Ignore RW
+
+![image](https://user-images.githubusercontent.com/117959424/221439971-5d50229e-c144-43b0-84e8-3fca7eb11190.png)
+
+22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la figura 18-45. ¿Se traslapan algunas de las respuestas? Suponga que RW  0 Æ para cada bobina.
+
+![image](https://user-images.githubusercontent.com/117959424/221439987-27b98bd3-a557-4b5c-b8d9-85ce0061ff6d.png)
+
+24. Determine la frecuencia central para cada filtro mostrado en la figura 18-46.
+
+![image](https://user-images.githubusercontent.com/117959424/221439998-3050e755-063b-495a-8cbe-d7725d478f05.png)
+
+26. Si la resistencia de las bobinas de la figura 18-47 es de 8 Æ, ¿cuál es el voltaje de salida en condición
+de resonancia cuando Vent  50 V?
+
+![image](https://user-images.githubusercontent.com/117959424/221440022-208465c9-7a37-40d4-bb90-8a79b8035dfc.png)
+
+![image](https://user-images.githubusercontent.com/117959424/221440025-dd8fde4b-8e50-43bd-9089-3e1eb7ee4e14.png)
+
+# 4.	VIDEO
+
+
+
+# 5.	CONCLUSIONES
+
+-)El analisis de los circuitos RCL es muy importante para el aprendizaje de la materia ya que este nos permite tener una mejor orientación para el analisis de los circuitos que se nos presenten. 
+
+-)Para el caso de los filtros, estos seran importantes de distinguir entre los filtros de pasabajas y los filtros de pasaltas, cuales son sus funciones y características y sobretodo sus diferencias entre sí, con la realización de los ejercicios se pudo tener clara esta idea.
+
+# 6.	Bibliografía
+
+Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación.
+
+# RUBRICA
+
+![image](https://user-images.githubusercontent.com/116814096/200999683-fe53d616-5553-4761-bdf4-e15a280451cb.png)
+
 
 
